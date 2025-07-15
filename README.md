@@ -17,7 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [https://lsb2994.github.io/Me/](https://lsb2994.github.io/Me/)
 
+- 📝 I regularly write articles on [https://animated-blog-genius.lovable.app/](https://animated-blog-genius.lovable.app/)
+
 - 📫 How to reach me **lengsambthsb2004@gmail.com**
+
+- 📄 Know about my experiences [https://animated-blog-genius.lovable.app/resume](https://animated-blog-genius.lovable.app/resume)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
