@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsb2994&label=Profile%20views&color=0e75b6&style=flat" alt="lsb2994" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsb2994" alt="lsb2994" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lengsambath7" target="blank"><img src="https://img.shields.io/twitter/follow/lengsambath7?logo=twitter&style=for-the-badge" alt="lengsambath7" /></a> </p>
 
 - 🔭 I’m currently working on Full Stack [WeHR](https://github.com/WeHRMS/bizweb_hrms_api.git)
